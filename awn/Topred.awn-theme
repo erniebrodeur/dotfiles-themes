@@ -1,0 +1,42 @@
+[theme-info]
+name = Topred
+icon = thumb.png
+author = Ernie Brodeur
+version = 0.1.1
+awn-theme-version = 0.4.0
+
+[config/panel/1]
+orient = 2
+size = 48
+style = 5
+expand = False
+
+[config/theme]
+gstep1 = #424200000000ffff
+gstep2 = #26261c1c1a1affff
+ghistep1 = #4c4c41413c3cffff
+ghistep2 = #2626000000000000
+draw_pattern = False
+icon_text_color = #ffffffffffffffff
+icon_text_outline_color = #000000000000ffff
+icon_font_mode = 1
+border = #424240403c3cffff
+hilight = #8d8d84848181ffff
+sep_color = #ffffffffffff7f7f
+gtk_theme_mode = False
+corner_radius = 10.0
+panel_angle = 0.0
+curviness = 10.0
+curves_symmetry = 0.469999998808
+tooltip_font_name = Sans 10
+tooltip_font_color = #ffffffffffffffff
+tooltip_bg_color = #000000000000b3b3
+tooltip_outline_color = #000000000000a8a8
+
+[config/effects]
+active_rect_color = #9090878779796666
+active_rect_outline = #0000000000000000
+arrow_icon = __awn_internal_arrow1
+show_shadows = False
+icon_effect = 0
+
